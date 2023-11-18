@@ -1,0 +1,1 @@
+yolo task=detect mode=predict model=C:\Nadeem\SafetHelmet\best.pt conf=0.5 source=0 classes=[0,2] show=True save=True show_conf=True
